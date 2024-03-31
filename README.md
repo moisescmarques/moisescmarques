@@ -29,7 +29,7 @@
 <h3 align="left">Tecnologias mais usadas</h3>
 <!--<h3 align="left">GitHub Stats</h3>--> 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=moisescmarques&layout=compact&&hide_title=true&bg_color=000&border_radius=3&border_color=36123c&title_color=E94D5F&text_color=FFF&theme=jolly)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=moisescmarques&layout=donut&&hide_title=true&bg_color=000&border_radius=3&border_color=36123c&title_color=E94D5F&text_color=FFF&theme=jolly)
 
 <h3 align="left">GitHub Stats</h3>
 
